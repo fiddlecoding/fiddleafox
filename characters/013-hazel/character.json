@@ -1,0 +1,148 @@
+{
+  "id": "hazel",
+  "slug": "hazel",
+  "name": "Hazel",
+  "species": "Bunny",
+  "gender": null,
+  "group_ids": [
+    "fox-etc"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/hazel",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/thumbnail/your_antics_wont_work_on_me4.png?1617282465",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/medium/your_antics_wont_work_on_me4.png?1617282465",
+      "alt": "",
+      "width": 854,
+      "height": 733
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/962/large/vfrbgrtbhgyt.png?1612553552",
+      "alt": "vfrbgrtbhgyt",
+      "width": 1280,
+      "height": 781
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/963/large/vfgt.png?1612553554",
+      "alt": "vfgt",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/964/large/cat2.png?1612553565",
+      "alt": "cat2",
+      "width": 1121,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/965/large/ghynjhjn.png?1612553565",
+      "alt": "ghynjhjn",
+      "width": 1280,
+      "height": 921
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/656/large/fdvgfrtgvtfr.png?1612752796",
+      "alt": "fdvgfrtgvtfr",
+      "width": 1170,
+      "height": 1142
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/661/large/fdvgfrtgvtfrs.png?1612752864",
+      "alt": "fdvgfrtgvtfrs",
+      "width": 620,
+      "height": 984
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/large/your_antics_wont_work_on_me4.png?1617282465",
+      "alt": "your antics wont work on me4",
+      "width": 1229,
+      "height": 1055
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/973/large/your_antics_wont_work_on_me1.png?1617282472",
+      "alt": "your antics wont work on me1",
+      "width": 1280,
+      "height": 871
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/974/large/fedfvre1.png?1617282480",
+      "alt": "fedfvre1",
+      "width": 1280,
+      "height": 486
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/962/medium/vfrbgrtbhgyt.png?1612553552",
+      "alt": "vfrbgrtbhgyt",
+      "width": 854,
+      "height": 521
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/963/medium/vfgt.png?1612553554",
+      "alt": "vfgt",
+      "width": 854,
+      "height": 711
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/964/medium/cat2.png?1612553565",
+      "alt": "cat2",
+      "width": 748,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/965/medium/ghynjhjn.png?1612553565",
+      "alt": "ghynjhjn",
+      "width": 854,
+      "height": 614
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/656/medium/fdvgfrtgvtfr.png?1612752796",
+      "alt": "fdvgfrtgvtfr",
+      "width": 854,
+      "height": 834
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/661/medium/fdvgfrtgvtfrs.png?1612752864",
+      "alt": "fdvgfrtgvtfrs",
+      "width": 538,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/medium/your_antics_wont_work_on_me4.png?1617282465",
+      "alt": "your antics wont work on me4",
+      "width": 854,
+      "height": 733
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/973/medium/your_antics_wont_work_on_me1.png?1617282472",
+      "alt": "your antics wont work on me1",
+      "width": 854,
+      "height": 581
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/974/medium/fedfvre1.png?1617282480",
+      "alt": "fedfvre1",
+      "width": 854,
+      "height": 324
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/013-hazel/index.html"
+}

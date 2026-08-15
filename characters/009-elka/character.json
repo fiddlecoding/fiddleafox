@@ -1,0 +1,100 @@
+{
+  "id": "elka",
+  "slug": "elka",
+  "name": "Elka",
+  "species": "Common Dog",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/elka",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/thumbnail/dsfre.png?1612552341",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/medium/dsfre.png?1612552341",
+      "alt": "",
+      "width": 854,
+      "height": 787
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/large/dsfre.png?1612552341",
+      "alt": "dsfre",
+      "width": 1280,
+      "height": 1180
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/923/large/defefe.png?1612552350",
+      "alt": "defefe",
+      "width": 1134,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/922/large/defefe2.png?1612552343",
+      "alt": "defefe2",
+      "width": 1134,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/924/large/frgvfgr2.png?1612552370",
+      "alt": "frgvfgr2",
+      "width": 1280,
+      "height": 1099
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/925/large/bgfbhgyth.png?1612552374",
+      "alt": "bgfbhgyth",
+      "width": 1010,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/medium/dsfre.png?1612552341",
+      "alt": "dsfre",
+      "width": 854,
+      "height": 787
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/923/medium/defefe.png?1612552350",
+      "alt": "defefe",
+      "width": 807,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/922/medium/defefe2.png?1612552343",
+      "alt": "defefe2",
+      "width": 807,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/924/medium/frgvfgr2.png?1612552370",
+      "alt": "frgvfgr2",
+      "width": 854,
+      "height": 733
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/925/medium/bgfbhgyth.png?1612552374",
+      "alt": "bgfbhgyth",
+      "width": 719,
+      "height": 854
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/009-elka/index.html"
+}

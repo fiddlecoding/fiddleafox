@@ -1,0 +1,136 @@
+{
+  "id": "clover",
+  "slug": "clover",
+  "name": "Clover",
+  "species": "Bunny",
+  "gender": null,
+  "group_ids": [
+    "fox-etc"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/clover",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/thumbnail/cdsferfcrefcer1.png?1612553135",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/medium/cdsferfcrefcer1.png?1612553135",
+      "alt": "",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/large/cdsferfcrefcer1.png?1612553135",
+      "alt": "cdsferfcrefcer1",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/938/large/cdsferfcrefcer2.png?1612553141",
+      "alt": "cdsferfcrefcer2",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/936/large/gthbtyjyu.png?1612553132",
+      "alt": "gthbtyjyu",
+      "width": 1280,
+      "height": 964
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/939/large/cat1.png?1612553143",
+      "alt": "cat1",
+      "width": 540,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/941/large/cat2.png?1612553153",
+      "alt": "cat2",
+      "width": 1121,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/940/large/vfdgbtrhb.png?1612553150",
+      "alt": "vfdgbtrhb",
+      "width": 910,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/942/large/vfrbgrtbhgyt.png?1612553161",
+      "alt": "vfrbgrtbhgyt",
+      "width": 1280,
+      "height": 781
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/952/large/ghynjhjn.png?1612553217",
+      "alt": "ghynjhjn",
+      "width": 1280,
+      "height": 921
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/medium/cdsferfcrefcer1.png?1612553135",
+      "alt": "cdsferfcrefcer1",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/938/medium/cdsferfcrefcer2.png?1612553141",
+      "alt": "cdsferfcrefcer2",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/936/medium/gthbtyjyu.png?1612553132",
+      "alt": "gthbtyjyu",
+      "width": 854,
+      "height": 643
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/939/medium/cat1.png?1612553143",
+      "alt": "cat1",
+      "width": 360,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/941/medium/cat2.png?1612553153",
+      "alt": "cat2",
+      "width": 748,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/940/medium/vfdgbtrhb.png?1612553150",
+      "alt": "vfdgbtrhb",
+      "width": 607,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/942/medium/vfrbgrtbhgyt.png?1612553161",
+      "alt": "vfrbgrtbhgyt",
+      "width": 854,
+      "height": 521
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/952/medium/ghynjhjn.png?1612553217",
+      "alt": "ghynjhjn",
+      "width": 854,
+      "height": 614
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/011-clover/index.html"
+}

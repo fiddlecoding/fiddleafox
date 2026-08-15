@@ -1,0 +1,136 @@
+{
+  "id": "vincent",
+  "slug": "vincent",
+  "name": "Vincent",
+  "species": "Common Dog",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/vincent",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/thumbnail/hgu.png?1612551218",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/medium/hgu.png?1612551218",
+      "alt": "",
+      "width": 854,
+      "height": 762
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/858/large/vdcr.png?1612551201",
+      "alt": "vdcr",
+      "width": 793,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/859/large/gthytjnyu.png?1612551204",
+      "alt": "gthytjnyu",
+      "width": 1280,
+      "height": 736
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/860/large/ghjnyu.png?1612551209",
+      "alt": "ghjnyu",
+      "width": 1280,
+      "height": 838
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/861/large/frtgrthbythbyt.png?1612551213",
+      "alt": "frtgrthbythbyt",
+      "width": 902,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/large/hgu.png?1612551218",
+      "alt": "hgu",
+      "width": 1280,
+      "height": 1142
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/863/large/gfrtbhrgt.png?1612551222",
+      "alt": "gfrtbhrgt",
+      "width": 575,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/864/large/frthbgtrhbgty2.png?1612551232",
+      "alt": "frthbgtrhbgty2",
+      "width": 577,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/865/large/cccdd.png?1612551235",
+      "alt": "cccdd",
+      "width": 1280,
+      "height": 814
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/858/medium/vdcr.png?1612551201",
+      "alt": "vdcr",
+      "width": 529,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/859/medium/gthytjnyu.png?1612551204",
+      "alt": "gthytjnyu",
+      "width": 854,
+      "height": 491
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/860/medium/ghjnyu.png?1612551209",
+      "alt": "ghjnyu",
+      "width": 854,
+      "height": 559
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/861/medium/frtgrthbythbyt.png?1612551213",
+      "alt": "frtgrthbythbyt",
+      "width": 602,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/medium/hgu.png?1612551218",
+      "alt": "hgu",
+      "width": 854,
+      "height": 762
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/863/medium/gfrtbhrgt.png?1612551222",
+      "alt": "gfrtbhrgt",
+      "width": 383,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/864/medium/frthbgtrhbgty2.png?1612551232",
+      "alt": "frthbgtrhbgty2",
+      "width": 385,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/865/medium/cccdd.png?1612551235",
+      "alt": "cccdd",
+      "width": 854,
+      "height": 543
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/003-vincent/index.html"
+}

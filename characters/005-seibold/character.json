@@ -1,0 +1,160 @@
+{
+  "id": "seibold",
+  "slug": "seibold",
+  "name": "Seibold",
+  "species": "Grey Wolf",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/seibold",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/thumbnail/vgfbhfgrtbhytg.png?1612552042",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/medium/vgfbhfgrtbhytg.png?1612552042",
+      "alt": "",
+      "width": 854,
+      "height": 725
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/895/large/gthytjnyu.png?1612551851",
+      "alt": "gthytjnyu",
+      "width": 1280,
+      "height": 736
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/904/large/thefloorislava1.png?1612551979",
+      "alt": "thefloorislava1",
+      "width": 885,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/899/large/thefloorislava2.png?1612551860",
+      "alt": "thefloorislava2",
+      "width": 966,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/896/large/frevgfrtgrtfrdfr.png?1612551856",
+      "alt": "frevgfrtgrtfrdfr",
+      "width": 1102,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/897/large/ghjnyu.png?1612551857",
+      "alt": "ghjnyu",
+      "width": 1280,
+      "height": 838
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/901/large/frthbgtrhbgty2.png?1612551893",
+      "alt": "frthbgtrhbgty2",
+      "width": 577,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/898/large/hgg.png?1612551857",
+      "alt": "hgg",
+      "width": 724,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/900/large/defefed.png?1612551866",
+      "alt": "defefed",
+      "width": 983,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/905/large/cccdd.png?1612551982",
+      "alt": "cccdd",
+      "width": 1280,
+      "height": 814
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/large/vgfbhfgrtbhytg.png?1612552042",
+      "alt": "vgfbhfgrtbhytg",
+      "width": 1087,
+      "height": 923
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/895/medium/gthytjnyu.png?1612551851",
+      "alt": "gthytjnyu",
+      "width": 854,
+      "height": 491
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/904/medium/thefloorislava1.png?1612551979",
+      "alt": "thefloorislava1",
+      "width": 590,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/899/medium/thefloorislava2.png?1612551860",
+      "alt": "thefloorislava2",
+      "width": 644,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/896/medium/frevgfrtgrtfrdfr.png?1612551856",
+      "alt": "frevgfrtgrtfrdfr",
+      "width": 736,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/897/medium/ghjnyu.png?1612551857",
+      "alt": "ghjnyu",
+      "width": 854,
+      "height": 559
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/901/medium/frthbgtrhbgty2.png?1612551893",
+      "alt": "frthbgtrhbgty2",
+      "width": 385,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/898/medium/hgg.png?1612551857",
+      "alt": "hgg",
+      "width": 483,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/900/medium/defefed.png?1612551866",
+      "alt": "defefed",
+      "width": 656,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/905/medium/cccdd.png?1612551982",
+      "alt": "cccdd",
+      "width": 854,
+      "height": 543
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/medium/vgfbhfgrtbhytg.png?1612552042",
+      "alt": "vgfbhfgrtbhytg",
+      "width": 854,
+      "height": 725
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/005-seibold/index.html"
+}

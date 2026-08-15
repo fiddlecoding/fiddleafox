@@ -1,0 +1,112 @@
+{
+  "id": "viridian",
+  "slug": "viridian",
+  "name": "Viridian",
+  "species": "Snake",
+  "gender": null,
+  "group_ids": [
+    "city-undisclosed"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/viridian",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/thumbnail/dsfr1.png?1612491130",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/medium/dsfr1.png?1612491130",
+      "alt": "",
+      "width": 854,
+      "height": 843
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/large/dsfr1.png?1612491130",
+      "alt": "dsfr1",
+      "width": 1215,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/268/large/dsfr2.png?1612491122",
+      "alt": "dsfr2",
+      "width": 1215,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/270/large/dsfr3.png?1612491137",
+      "alt": "dsfr3",
+      "width": 1215,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/271/large/ghthythbygt.gif?1612491145",
+      "alt": "ghthythbygt",
+      "width": 536,
+      "height": 560
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/927/large/1580869255.fiddleafox_dddeff.png?1612552573",
+      "alt": "1580869255",
+      "width": 706,
+      "height": 718
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/929/large/1580869160.fiddleafox_tfvdrtvfdtrvtr.jpg?1612552583",
+      "alt": "1580869160",
+      "width": 1222,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/medium/dsfr1.png?1612491130",
+      "alt": "dsfr1",
+      "width": 854,
+      "height": 843
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/268/medium/dsfr2.png?1612491122",
+      "alt": "dsfr2",
+      "width": 854,
+      "height": 843
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/270/medium/dsfr3.png?1612491137",
+      "alt": "dsfr3",
+      "width": 854,
+      "height": 843
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/271/medium/ghthythbygt.gif?1612491145",
+      "alt": "ghthythbygt",
+      "width": 536,
+      "height": 560
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/927/medium/1580869255.fiddleafox_dddeff.png?1612552573",
+      "alt": "1580869255",
+      "width": 706,
+      "height": 718
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/929/medium/1580869160.fiddleafox_tfvdrtvfdtrvtr.jpg?1612552583",
+      "alt": "1580869160",
+      "width": 815,
+      "height": 854
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/002-viridian/index.html"
+}

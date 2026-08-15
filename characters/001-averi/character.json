@@ -1,0 +1,136 @@
+{
+  "id": "averi",
+  "slug": "averi",
+  "name": "Averi",
+  "species": "Fox",
+  "gender": null,
+  "group_ids": [
+    "fox-etc"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/averi",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/thumbnail/Illustration5fdrgr.png?1612487778",
+  "featured_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/764/large/htyhjyuju2s.png?1612540381",
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/medium/Illustration5fdrgr.png?1612487778",
+      "alt": "",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/165/large/sded.png?1612487765",
+      "alt": "sded",
+      "width": 1280,
+      "height": 934
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/large/Illustration5fdrgr.png?1612487778",
+      "alt": "Illustration5fdrgr",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/167/large/fdrvgrfgbtfrhb.png?1612487786",
+      "alt": "fdrvgrfgbtfrhb",
+      "width": 1079,
+      "height": 1264
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/168/large/microwavebutswords.gif?1612487794",
+      "alt": "microwavebutswords",
+      "width": 525,
+      "height": 560
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/170/large/vfrbgrtbhgyt.png?1612487816",
+      "alt": "vfrbgrtbhgyt",
+      "width": 1280,
+      "height": 781
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/171/large/bfghtynjuy.gif?1612487828",
+      "alt": "bfghtynjuy",
+      "width": 560,
+      "height": 515
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/172/large/fdvfrgvr.jpeg?1612487833",
+      "alt": "fdvfrgvr",
+      "width": 777,
+      "height": 893
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/764/large/htyhjyuju2s.png?1612540381",
+      "alt": "htyhjyuju2s",
+      "width": 1280,
+      "height": 642
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/165/medium/sded.png?1612487765",
+      "alt": "sded",
+      "width": 854,
+      "height": 623
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/medium/Illustration5fdrgr.png?1612487778",
+      "alt": "Illustration5fdrgr",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/167/medium/fdrvgrfgbtfrhb.png?1612487786",
+      "alt": "fdrvgrfgbtfrhb",
+      "width": 729,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/168/medium/microwavebutswords.gif?1612487794",
+      "alt": "microwavebutswords",
+      "width": 525,
+      "height": 560
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/170/medium/vfrbgrtbhgyt.png?1612487816",
+      "alt": "vfrbgrtbhgyt",
+      "width": 854,
+      "height": 521
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/171/medium/bfghtynjuy.gif?1612487828",
+      "alt": "bfghtynjuy",
+      "width": 560,
+      "height": 515
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/172/medium/fdvfrgvr.jpeg?1612487833",
+      "alt": "fdvfrgvr",
+      "width": 743,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/764/medium/htyhjyuju2s.png?1612540381",
+      "alt": "htyhjyuju2s",
+      "width": 854,
+      "height": 428
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/001-averi/index.html"
+}

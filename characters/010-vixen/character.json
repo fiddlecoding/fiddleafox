@@ -1,0 +1,64 @@
+{
+  "id": "vixen",
+  "slug": "vixen",
+  "name": "Vixen",
+  "species": "Fox (?)",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/vixen",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/thumbnail/dedesede.gif?1612540491",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/medium/dedesede.gif?1612540491",
+      "alt": "",
+      "width": 560,
+      "height": 420
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/large/dedesede.gif?1612540491",
+      "alt": "dedesede",
+      "width": 560,
+      "height": 420
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/769/large/vixensdreamvisits.png?1612540518",
+      "alt": "vixensdreamvisits",
+      "width": 1280,
+      "height": 1162
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/medium/dedesede.gif?1612540491",
+      "alt": "dedesede",
+      "width": 560,
+      "height": 420
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/769/medium/vixensdreamvisits.png?1612540518",
+      "alt": "vixensdreamvisits",
+      "width": 854,
+      "height": 776
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/010-vixen/index.html"
+}

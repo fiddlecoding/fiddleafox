@@ -1,0 +1,112 @@
+{
+  "id": "cotton",
+  "slug": "cotton",
+  "name": "Cotton",
+  "species": "Bunny",
+  "gender": null,
+  "group_ids": [
+    "fox-etc"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/cotton",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/thumbnail/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/medium/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+      "alt": "",
+      "width": 854,
+      "height": 596
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/954/large/cdvfrtg.png?1612553334",
+      "alt": "cdvfrtg",
+      "width": 1280,
+      "height": 638
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/955/large/vfdgbtrhb.png?1612553337",
+      "alt": "vfdgbtrhb",
+      "width": 910,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/956/large/cat2.png?1612553339",
+      "alt": "cat2",
+      "width": 1121,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/957/large/fcrevcreg.png?1612553407",
+      "alt": "fcrevcreg",
+      "width": 1280,
+      "height": 1036
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/958/large/vfgt.png?1612553408",
+      "alt": "vfgt",
+      "width": 1280,
+      "height": 1066
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/large/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+      "alt": "yeahi watched alpha and omega 55 times how can you tell",
+      "width": 1280,
+      "height": 893
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/954/medium/cdvfrtg.png?1612553334",
+      "alt": "cdvfrtg",
+      "width": 854,
+      "height": 426
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/955/medium/vfdgbtrhb.png?1612553337",
+      "alt": "vfdgbtrhb",
+      "width": 607,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/956/medium/cat2.png?1612553339",
+      "alt": "cat2",
+      "width": 748,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/957/medium/fcrevcreg.png?1612553407",
+      "alt": "fcrevcreg",
+      "width": 854,
+      "height": 691
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/958/medium/vfgt.png?1612553408",
+      "alt": "vfgt",
+      "width": 854,
+      "height": 711
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/medium/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+      "alt": "yeahi watched alpha and omega 55 times how can you tell",
+      "width": 854,
+      "height": 596
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/012-cotton/index.html"
+}

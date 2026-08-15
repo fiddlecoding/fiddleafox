@@ -1,0 +1,112 @@
+{
+  "id": "blue",
+  "slug": "blue",
+  "name": "Blue",
+  "species": "Bunny",
+  "gender": null,
+  "group_ids": [
+    "fox-etc"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/blue",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/thumbnail/cat1.png?1612553660",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/medium/cat1.png?1612553660",
+      "alt": "",
+      "width": 360,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/large/cat1.png?1612553660",
+      "alt": "cat1",
+      "width": 540,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/971/large/cat2.png?1612553671",
+      "alt": "cat2",
+      "width": 1121,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/970/large/cat3.png?1612553665",
+      "alt": "cat3",
+      "width": 1280,
+      "height": 1029
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/972/large/vfdgbtrhb.png?1612553676",
+      "alt": "vfdgbtrhb",
+      "width": 910,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/968/large/cdvfrtg.png?1612553655",
+      "alt": "cdvfrtg",
+      "width": 1280,
+      "height": 638
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/978/large/bgfnjhytjnhnh.png?1612553771",
+      "alt": "bgfnjhytjnhnh",
+      "width": 1280,
+      "height": 510
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/medium/cat1.png?1612553660",
+      "alt": "cat1",
+      "width": 360,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/971/medium/cat2.png?1612553671",
+      "alt": "cat2",
+      "width": 748,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/970/medium/cat3.png?1612553665",
+      "alt": "cat3",
+      "width": 854,
+      "height": 687
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/972/medium/vfdgbtrhb.png?1612553676",
+      "alt": "vfdgbtrhb",
+      "width": 607,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/968/medium/cdvfrtg.png?1612553655",
+      "alt": "cdvfrtg",
+      "width": 854,
+      "height": 426
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/978/medium/bgfnjhytjnhnh.png?1612553771",
+      "alt": "bgfnjhytjnhnh",
+      "width": 854,
+      "height": 340
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/014-blue/index.html"
+}

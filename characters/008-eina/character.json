@@ -1,0 +1,244 @@
+{
+  "id": "eina",
+  "slug": "eina",
+  "name": "Eina",
+  "species": "Alpine Ram",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/eina",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/thumbnail/frgvfrtgvrft.png?1612550904",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/medium/frgvfrtgvrft.png?1612550904",
+      "alt": "",
+      "width": 711,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/848/large/cdfvrevgrt.png?1612550890",
+      "alt": "cdfvrevgrt",
+      "width": 1280,
+      "height": 1062
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/851/large/nhgjuy1.png?1612550924",
+      "alt": "nhgjuy1",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/853/large/nhgjuy2.png?1612550932",
+      "alt": "nhgjuy2",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/852/large/nhgjuy3.png?1612550931",
+      "alt": "nhgjuy3",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/large/frgvfrtgvrft.png?1612550904",
+      "alt": "frgvfrtgvrft",
+      "width": 1065,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/856/large/eingrid3.png?1612551133",
+      "alt": "eingrid3",
+      "width": 1213,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/857/large/eingrid2.png?1612551134",
+      "alt": "eingrid2",
+      "width": 1213,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/200/large/shirtborrow1.png?1612568225",
+      "alt": "shirtborrow1",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/198/large/shirtborrow2.png?1612568211",
+      "alt": "shirtborrow2",
+      "width": 1280,
+      "height": 1052
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/197/large/shirtborrow3.png?1612568203",
+      "alt": "shirtborrow3",
+      "width": 1224,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/199/large/shirtborrow4.png?1612568218",
+      "alt": "shirtborrow4",
+      "width": 1224,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/966/large/fgrgvfrtgrt.png?1617282128",
+      "alt": "fgrgvfrtgrt",
+      "width": 788,
+      "height": 594
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/969/large/efcefcref.png?1617282130",
+      "alt": "efcefcref",
+      "width": 1280,
+      "height": 1260
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/967/large/fgdgd2.png?1617282129",
+      "alt": "fgdgd2",
+      "width": 1224,
+      "height": 1038
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/968/large/fgdgd1.png?1617282129",
+      "alt": "fgdgd1",
+      "width": 1224,
+      "height": 1038
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/971/large/fgdgd3.png?1617282134",
+      "alt": "fgdgd3",
+      "width": 1224,
+      "height": 1038
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/970/large/deded2.png?1617282132",
+      "alt": "deded2",
+      "width": 864,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/848/medium/cdfvrevgrt.png?1612550890",
+      "alt": "cdfvrevgrt",
+      "width": 854,
+      "height": 708
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/851/medium/nhgjuy1.png?1612550924",
+      "alt": "nhgjuy1",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/853/medium/nhgjuy2.png?1612550932",
+      "alt": "nhgjuy2",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/852/medium/nhgjuy3.png?1612550931",
+      "alt": "nhgjuy3",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/medium/frgvfrtgvrft.png?1612550904",
+      "alt": "frgvfrtgvrft",
+      "width": 711,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/856/medium/eingrid3.png?1612551133",
+      "alt": "eingrid3",
+      "width": 809,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/857/medium/eingrid2.png?1612551134",
+      "alt": "eingrid2",
+      "width": 809,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/200/medium/shirtborrow1.png?1612568225",
+      "alt": "shirtborrow1",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/198/medium/shirtborrow2.png?1612568211",
+      "alt": "shirtborrow2",
+      "width": 854,
+      "height": 702
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/197/medium/shirtborrow3.png?1612568203",
+      "alt": "shirtborrow3",
+      "width": 854,
+      "height": 837
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/199/medium/shirtborrow4.png?1612568218",
+      "alt": "shirtborrow4",
+      "width": 854,
+      "height": 837
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/966/medium/fgrgvfrtgrt.png?1617282128",
+      "alt": "fgrgvfrtgrt",
+      "width": 788,
+      "height": 594
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/969/medium/efcefcref.png?1617282130",
+      "alt": "efcefcref",
+      "width": 854,
+      "height": 841
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/967/medium/fgdgd2.png?1617282129",
+      "alt": "fgdgd2",
+      "width": 854,
+      "height": 724
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/968/medium/fgdgd1.png?1617282129",
+      "alt": "fgdgd1",
+      "width": 854,
+      "height": 724
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/971/medium/fgdgd3.png?1617282134",
+      "alt": "fgdgd3",
+      "width": 854,
+      "height": 724
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/970/medium/deded2.png?1617282132",
+      "alt": "deded2",
+      "width": 577,
+      "height": 854
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/008-eina/index.html"
+}

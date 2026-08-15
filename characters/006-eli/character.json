@@ -1,0 +1,172 @@
+{
+  "id": "eli",
+  "slug": "eli",
+  "name": "Eli",
+  "species": "Fox",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/eli",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/thumbnail/fffdfr.png?1612552137",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/medium/fffdfr.png?1612552137",
+      "alt": "",
+      "width": 492,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/large/fffdfr.png?1612552137",
+      "alt": "fffdfr",
+      "width": 737,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/909/large/gthytjnyu.png?1612552140",
+      "alt": "gthytjnyu",
+      "width": 1280,
+      "height": 736
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/911/large/thefloorislava1.png?1612552143",
+      "alt": "thefloorislava1",
+      "width": 885,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/913/large/thefloorislava2.png?1612552149",
+      "alt": "thefloorislava2",
+      "width": 966,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/910/large/frevgfrtgrtfrdfr.png?1612552143",
+      "alt": "frevgfrtgrtfrdfr",
+      "width": 1102,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/912/large/attitudeunconscious.png?1612552145",
+      "alt": "attitudeunconscious",
+      "width": 1280,
+      "height": 1265
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/914/large/ghjnyu.png?1612552187",
+      "alt": "ghjnyu",
+      "width": 1280,
+      "height": 838
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/915/large/vfgrtbgthgyt.png?1612552187",
+      "alt": "vfgrtbgthgyt",
+      "width": 1280,
+      "height": 860
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/916/large/frthbgtrhbgty2.png?1612552187",
+      "alt": "frthbgtrhbgty2",
+      "width": 577,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/917/large/defefed.png?1612552193",
+      "alt": "defefed",
+      "width": 983,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/918/large/cccdd.png?1612552195",
+      "alt": "cccdd",
+      "width": 1280,
+      "height": 814
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/medium/fffdfr.png?1612552137",
+      "alt": "fffdfr",
+      "width": 492,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/909/medium/gthytjnyu.png?1612552140",
+      "alt": "gthytjnyu",
+      "width": 854,
+      "height": 491
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/911/medium/thefloorislava1.png?1612552143",
+      "alt": "thefloorislava1",
+      "width": 590,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/913/medium/thefloorislava2.png?1612552149",
+      "alt": "thefloorislava2",
+      "width": 644,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/910/medium/frevgfrtgrtfrdfr.png?1612552143",
+      "alt": "frevgfrtgrtfrdfr",
+      "width": 736,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/912/medium/attitudeunconscious.png?1612552145",
+      "alt": "attitudeunconscious",
+      "width": 854,
+      "height": 844
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/914/medium/ghjnyu.png?1612552187",
+      "alt": "ghjnyu",
+      "width": 854,
+      "height": 559
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/915/medium/vfgrtbgthgyt.png?1612552187",
+      "alt": "vfgrtbgthgyt",
+      "width": 854,
+      "height": 574
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/916/medium/frthbgtrhbgty2.png?1612552187",
+      "alt": "frthbgtrhbgty2",
+      "width": 385,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/917/medium/defefed.png?1612552193",
+      "alt": "defefed",
+      "width": 656,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/918/medium/cccdd.png?1612552195",
+      "alt": "cccdd",
+      "width": 854,
+      "height": 543
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/006-eli/index.html"
+}

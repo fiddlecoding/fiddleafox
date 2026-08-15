@@ -1,0 +1,304 @@
+{
+  "id": "sigrid",
+  "slug": "sigrid",
+  "name": "Sigrid",
+  "species": "Greater Grey Wolf",
+  "gender": null,
+  "group_ids": [
+    "lord-s-party"
+  ],
+  "original_url": "https://refsheet.net/fiddleafox/sigrid",
+  "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/thumbnail/efcefcref.png?1617281925",
+  "featured_image_url": null,
+  "images": [
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+      "alt": "Refsheet.net",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/medium/efcefcref.png?1617281925",
+      "alt": "",
+      "width": 854,
+      "height": 841
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/866/large/fcdrfrds.png?1612551394",
+      "alt": "fcdrfrds",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/867/large/fcdrfrds2.png?1612551395",
+      "alt": "fcdrfrds2",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/868/large/fcdrfrds3.png?1612551397",
+      "alt": "fcdrfrds3",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/870/large/nhgjuy1.png?1612551419",
+      "alt": "nhgjuy1",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/873/large/nhgjuy2.png?1612551428",
+      "alt": "nhgjuy2",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/874/large/nhgjuy3.png?1612551501",
+      "alt": "nhgjuy3",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/869/large/nhgjuy4.png?1612551418",
+      "alt": "nhgjuy4",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/871/large/cdfvrevgrt.png?1612551421",
+      "alt": "cdfvrevgrt",
+      "width": 1280,
+      "height": 1062
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/875/large/eingrid1.png?1612551502",
+      "alt": "eingrid1",
+      "width": 1213,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/872/large/eingrid2.png?1612551425",
+      "alt": "eingrid2",
+      "width": 1213,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/879/large/eingrid3.png?1612551601",
+      "alt": "eingrid3",
+      "width": 1213,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/876/large/shesaidno.png?1612551504",
+      "alt": "shesaidno",
+      "width": 964,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/877/large/grr1.png?1612551511",
+      "alt": "grr1",
+      "width": 795,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/210/large/shirtborrow1.png?1612568392",
+      "alt": "shirtborrow1",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/209/large/shirtborrow2.png?1612568391",
+      "alt": "shirtborrow2",
+      "width": 1280,
+      "height": 1052
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/208/large/shirtborrow3.png?1612568385",
+      "alt": "shirtborrow3",
+      "width": 1224,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/207/large/shirtborrow4.png?1612568383",
+      "alt": "shirtborrow4",
+      "width": 1224,
+      "height": 1200
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/large/efcefcref.png?1617281925",
+      "alt": "efcefcref",
+      "width": 1280,
+      "height": 1260
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/945/large/fgdgd1.png?1617281924",
+      "alt": "fgdgd1",
+      "width": 1224,
+      "height": 1038
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/943/large/fgdgd2.png?1617281923",
+      "alt": "fgdgd2",
+      "width": 1224,
+      "height": 1038
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/946/large/fgdgd3.png?1617281942",
+      "alt": "fgdgd3",
+      "width": 1224,
+      "height": 1038
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/947/large/deded2.png?1617281943",
+      "alt": "deded2",
+      "width": 864,
+      "height": 1280
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/866/medium/fcdrfrds.png?1612551394",
+      "alt": "fcdrfrds",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/867/medium/fcdrfrds2.png?1612551395",
+      "alt": "fcdrfrds2",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/868/medium/fcdrfrds3.png?1612551397",
+      "alt": "fcdrfrds3",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/870/medium/nhgjuy1.png?1612551419",
+      "alt": "nhgjuy1",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/873/medium/nhgjuy2.png?1612551428",
+      "alt": "nhgjuy2",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/874/medium/nhgjuy3.png?1612551501",
+      "alt": "nhgjuy3",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/869/medium/nhgjuy4.png?1612551418",
+      "alt": "nhgjuy4",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/871/medium/cdfvrevgrt.png?1612551421",
+      "alt": "cdfvrevgrt",
+      "width": 854,
+      "height": 708
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/875/medium/eingrid1.png?1612551502",
+      "alt": "eingrid1",
+      "width": 809,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/872/medium/eingrid2.png?1612551425",
+      "alt": "eingrid2",
+      "width": 809,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/879/medium/eingrid3.png?1612551601",
+      "alt": "eingrid3",
+      "width": 809,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/876/medium/shesaidno.png?1612551504",
+      "alt": "shesaidno",
+      "width": 643,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/877/medium/grr1.png?1612551511",
+      "alt": "grr1",
+      "width": 530,
+      "height": 854
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/210/medium/shirtborrow1.png?1612568392",
+      "alt": "shirtborrow1",
+      "width": 854,
+      "height": 640
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/209/medium/shirtborrow2.png?1612568391",
+      "alt": "shirtborrow2",
+      "width": 854,
+      "height": 702
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/208/medium/shirtborrow3.png?1612568385",
+      "alt": "shirtborrow3",
+      "width": 854,
+      "height": 837
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/207/medium/shirtborrow4.png?1612568383",
+      "alt": "shirtborrow4",
+      "width": 854,
+      "height": 837
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/medium/efcefcref.png?1617281925",
+      "alt": "efcefcref",
+      "width": 854,
+      "height": 841
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/945/medium/fgdgd1.png?1617281924",
+      "alt": "fgdgd1",
+      "width": 854,
+      "height": 724
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/943/medium/fgdgd2.png?1617281923",
+      "alt": "fgdgd2",
+      "width": 854,
+      "height": 724
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/946/medium/fgdgd3.png?1617281942",
+      "alt": "fgdgd3",
+      "width": 854,
+      "height": 724
+    },
+    {
+      "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/947/medium/deded2.png?1617281943",
+      "alt": "deded2",
+      "width": 577,
+      "height": 854
+    },
+    {
+      "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+      "alt": "Support us on Patreon!",
+      "width": 157,
+      "height": 36
+    },
+    {
+      "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+      "alt": "Loading...",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "local_file": "characters/007-sigrid/index.html"
+}
