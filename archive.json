@@ -1,0 +1,2218 @@
+{
+  "archive_version": 3,
+  "archived_at": "2026-08-15T04:23:32.845Z",
+  "source": "https://refsheet.net",
+  "profile_url": "https://refsheet.net/fiddleafox",
+  "username": "fiddleafox",
+  "character_count": 15,
+  "characters": [
+    {
+      "id": "averi",
+      "slug": "averi",
+      "name": "Averi",
+      "species": "Fox",
+      "gender": null,
+      "group_ids": [
+        "fox-etc"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/averi",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/thumbnail/Illustration5fdrgr.png?1612487778",
+      "featured_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/764/large/htyhjyuju2s.png?1612540381",
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/medium/Illustration5fdrgr.png?1612487778",
+          "alt": "",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/165/large/sded.png?1612487765",
+          "alt": "sded",
+          "width": 1280,
+          "height": 934
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/large/Illustration5fdrgr.png?1612487778",
+          "alt": "Illustration5fdrgr",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/167/large/fdrvgrfgbtfrhb.png?1612487786",
+          "alt": "fdrvgrfgbtfrhb",
+          "width": 1079,
+          "height": 1264
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/168/large/microwavebutswords.gif?1612487794",
+          "alt": "microwavebutswords",
+          "width": 525,
+          "height": 560
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/170/large/vfrbgrtbhgyt.png?1612487816",
+          "alt": "vfrbgrtbhgyt",
+          "width": 1280,
+          "height": 781
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/171/large/bfghtynjuy.gif?1612487828",
+          "alt": "bfghtynjuy",
+          "width": 560,
+          "height": 515
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/172/large/fdvfrgvr.jpeg?1612487833",
+          "alt": "fdvfrgvr",
+          "width": 777,
+          "height": 893
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/764/large/htyhjyuju2s.png?1612540381",
+          "alt": "htyhjyuju2s",
+          "width": 1280,
+          "height": 642
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/165/medium/sded.png?1612487765",
+          "alt": "sded",
+          "width": 854,
+          "height": 623
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/166/medium/Illustration5fdrgr.png?1612487778",
+          "alt": "Illustration5fdrgr",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/167/medium/fdrvgrfgbtfrhb.png?1612487786",
+          "alt": "fdrvgrfgbtfrhb",
+          "width": 729,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/168/medium/microwavebutswords.gif?1612487794",
+          "alt": "microwavebutswords",
+          "width": 525,
+          "height": 560
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/170/medium/vfrbgrtbhgyt.png?1612487816",
+          "alt": "vfrbgrtbhgyt",
+          "width": 854,
+          "height": 521
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/171/medium/bfghtynjuy.gif?1612487828",
+          "alt": "bfghtynjuy",
+          "width": 560,
+          "height": 515
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/172/medium/fdvfrgvr.jpeg?1612487833",
+          "alt": "fdvfrgvr",
+          "width": 743,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/764/medium/htyhjyuju2s.png?1612540381",
+          "alt": "htyhjyuju2s",
+          "width": 854,
+          "height": 428
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/001-averi/index.html"
+    },
+    {
+      "id": "viridian",
+      "slug": "viridian",
+      "name": "Viridian",
+      "species": "Snake",
+      "gender": null,
+      "group_ids": [
+        "city-undisclosed"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/viridian",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/thumbnail/dsfr1.png?1612491130",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/medium/dsfr1.png?1612491130",
+          "alt": "",
+          "width": 854,
+          "height": 843
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/large/dsfr1.png?1612491130",
+          "alt": "dsfr1",
+          "width": 1215,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/268/large/dsfr2.png?1612491122",
+          "alt": "dsfr2",
+          "width": 1215,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/270/large/dsfr3.png?1612491137",
+          "alt": "dsfr3",
+          "width": 1215,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/271/large/ghthythbygt.gif?1612491145",
+          "alt": "ghthythbygt",
+          "width": 536,
+          "height": 560
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/927/large/1580869255.fiddleafox_dddeff.png?1612552573",
+          "alt": "1580869255",
+          "width": 706,
+          "height": 718
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/929/large/1580869160.fiddleafox_tfvdrtvfdtrvtr.jpg?1612552583",
+          "alt": "1580869160",
+          "width": 1222,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/269/medium/dsfr1.png?1612491130",
+          "alt": "dsfr1",
+          "width": 854,
+          "height": 843
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/268/medium/dsfr2.png?1612491122",
+          "alt": "dsfr2",
+          "width": 854,
+          "height": 843
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/270/medium/dsfr3.png?1612491137",
+          "alt": "dsfr3",
+          "width": 854,
+          "height": 843
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/271/medium/ghthythbygt.gif?1612491145",
+          "alt": "ghthythbygt",
+          "width": 536,
+          "height": 560
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/927/medium/1580869255.fiddleafox_dddeff.png?1612552573",
+          "alt": "1580869255",
+          "width": 706,
+          "height": 718
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/929/medium/1580869160.fiddleafox_tfvdrtvfdtrvtr.jpg?1612552583",
+          "alt": "1580869160",
+          "width": 815,
+          "height": 854
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/002-viridian/index.html"
+    },
+    {
+      "id": "vincent",
+      "slug": "vincent",
+      "name": "Vincent",
+      "species": "Common Dog",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/vincent",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/thumbnail/hgu.png?1612551218",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/medium/hgu.png?1612551218",
+          "alt": "",
+          "width": 854,
+          "height": 762
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/858/large/vdcr.png?1612551201",
+          "alt": "vdcr",
+          "width": 793,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/859/large/gthytjnyu.png?1612551204",
+          "alt": "gthytjnyu",
+          "width": 1280,
+          "height": 736
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/860/large/ghjnyu.png?1612551209",
+          "alt": "ghjnyu",
+          "width": 1280,
+          "height": 838
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/861/large/frtgrthbythbyt.png?1612551213",
+          "alt": "frtgrthbythbyt",
+          "width": 902,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/large/hgu.png?1612551218",
+          "alt": "hgu",
+          "width": 1280,
+          "height": 1142
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/863/large/gfrtbhrgt.png?1612551222",
+          "alt": "gfrtbhrgt",
+          "width": 575,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/864/large/frthbgtrhbgty2.png?1612551232",
+          "alt": "frthbgtrhbgty2",
+          "width": 577,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/865/large/cccdd.png?1612551235",
+          "alt": "cccdd",
+          "width": 1280,
+          "height": 814
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/858/medium/vdcr.png?1612551201",
+          "alt": "vdcr",
+          "width": 529,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/859/medium/gthytjnyu.png?1612551204",
+          "alt": "gthytjnyu",
+          "width": 854,
+          "height": 491
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/860/medium/ghjnyu.png?1612551209",
+          "alt": "ghjnyu",
+          "width": 854,
+          "height": 559
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/861/medium/frtgrthbythbyt.png?1612551213",
+          "alt": "frtgrthbythbyt",
+          "width": 602,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/862/medium/hgu.png?1612551218",
+          "alt": "hgu",
+          "width": 854,
+          "height": 762
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/863/medium/gfrtbhrgt.png?1612551222",
+          "alt": "gfrtbhrgt",
+          "width": 383,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/864/medium/frthbgtrhbgty2.png?1612551232",
+          "alt": "frthbgtrhbgty2",
+          "width": 385,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/865/medium/cccdd.png?1612551235",
+          "alt": "cccdd",
+          "width": 854,
+          "height": 543
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/003-vincent/index.html"
+    },
+    {
+      "id": "ryou",
+      "slug": "ryou",
+      "name": "Ryou",
+      "species": "Cat",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/ryou",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/884/thumbnail/ghjnyu.png?1612551690",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/884/medium/ghjnyu.png?1612551690",
+          "alt": "",
+          "width": 854,
+          "height": 559
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/880/large/gthytjnyu.png?1612551673",
+          "alt": "gthytjnyu",
+          "width": 1280,
+          "height": 736
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/883/large/thefloorislava1.png?1612551682",
+          "alt": "thefloorislava1",
+          "width": 885,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/882/large/thefloorislava2.png?1612551679",
+          "alt": "thefloorislava2",
+          "width": 966,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/881/large/frevgfrtgrtfrdfr.png?1612551677",
+          "alt": "frevgfrtgrtfrdfr",
+          "width": 1102,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/886/large/hgu.png?1612551696",
+          "alt": "hgu",
+          "width": 1280,
+          "height": 1142
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/884/large/ghjnyu.png?1612551690",
+          "alt": "ghjnyu",
+          "width": 1280,
+          "height": 838
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/891/large/defefed.png?1612551729",
+          "alt": "defefed",
+          "width": 983,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/887/large/gfrtbhrgt.png?1612551700",
+          "alt": "gfrtbhrgt",
+          "width": 575,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/885/large/frtgrthbythbyt.png?1612551693",
+          "alt": "frtgrthbythbyt",
+          "width": 902,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/888/large/framea.png?1612551726",
+          "alt": "framea",
+          "width": 867,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/892/large/framee.png?1612551735",
+          "alt": "framee",
+          "width": 648,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/889/large/vfrgtr.png?1612551727",
+          "alt": "vfrgtr",
+          "width": 1280,
+          "height": 896
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/890/large/vfgrtbgthgyt.png?1612551728",
+          "alt": "vfgrtbgthgyt",
+          "width": 1280,
+          "height": 860
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/893/large/cccdd.png?1612551736",
+          "alt": "cccdd",
+          "width": 1280,
+          "height": 814
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/880/medium/gthytjnyu.png?1612551673",
+          "alt": "gthytjnyu",
+          "width": 854,
+          "height": 491
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/883/medium/thefloorislava1.png?1612551682",
+          "alt": "thefloorislava1",
+          "width": 590,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/882/medium/thefloorislava2.png?1612551679",
+          "alt": "thefloorislava2",
+          "width": 644,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/881/medium/frevgfrtgrtfrdfr.png?1612551677",
+          "alt": "frevgfrtgrtfrdfr",
+          "width": 736,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/886/medium/hgu.png?1612551696",
+          "alt": "hgu",
+          "width": 854,
+          "height": 762
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/884/medium/ghjnyu.png?1612551690",
+          "alt": "ghjnyu",
+          "width": 854,
+          "height": 559
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/891/medium/defefed.png?1612551729",
+          "alt": "defefed",
+          "width": 656,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/887/medium/gfrtbhrgt.png?1612551700",
+          "alt": "gfrtbhrgt",
+          "width": 383,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/885/medium/frtgrthbythbyt.png?1612551693",
+          "alt": "frtgrthbythbyt",
+          "width": 602,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/888/medium/framea.png?1612551726",
+          "alt": "framea",
+          "width": 579,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/892/medium/framee.png?1612551735",
+          "alt": "framee",
+          "width": 432,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/889/medium/vfrgtr.png?1612551727",
+          "alt": "vfrgtr",
+          "width": 854,
+          "height": 598
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/890/medium/vfgrtbgthgyt.png?1612551728",
+          "alt": "vfgrtbgthgyt",
+          "width": 854,
+          "height": 574
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/893/medium/cccdd.png?1612551736",
+          "alt": "cccdd",
+          "width": 854,
+          "height": 543
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/004-ryou/index.html"
+    },
+    {
+      "id": "seibold",
+      "slug": "seibold",
+      "name": "Seibold",
+      "species": "Grey Wolf",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/seibold",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/thumbnail/vgfbhfgrtbhytg.png?1612552042",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/medium/vgfbhfgrtbhytg.png?1612552042",
+          "alt": "",
+          "width": 854,
+          "height": 725
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/895/large/gthytjnyu.png?1612551851",
+          "alt": "gthytjnyu",
+          "width": 1280,
+          "height": 736
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/904/large/thefloorislava1.png?1612551979",
+          "alt": "thefloorislava1",
+          "width": 885,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/899/large/thefloorislava2.png?1612551860",
+          "alt": "thefloorislava2",
+          "width": 966,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/896/large/frevgfrtgrtfrdfr.png?1612551856",
+          "alt": "frevgfrtgrtfrdfr",
+          "width": 1102,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/897/large/ghjnyu.png?1612551857",
+          "alt": "ghjnyu",
+          "width": 1280,
+          "height": 838
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/901/large/frthbgtrhbgty2.png?1612551893",
+          "alt": "frthbgtrhbgty2",
+          "width": 577,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/898/large/hgg.png?1612551857",
+          "alt": "hgg",
+          "width": 724,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/900/large/defefed.png?1612551866",
+          "alt": "defefed",
+          "width": 983,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/905/large/cccdd.png?1612551982",
+          "alt": "cccdd",
+          "width": 1280,
+          "height": 814
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/large/vgfbhfgrtbhytg.png?1612552042",
+          "alt": "vgfbhfgrtbhytg",
+          "width": 1087,
+          "height": 923
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/895/medium/gthytjnyu.png?1612551851",
+          "alt": "gthytjnyu",
+          "width": 854,
+          "height": 491
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/904/medium/thefloorislava1.png?1612551979",
+          "alt": "thefloorislava1",
+          "width": 590,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/899/medium/thefloorislava2.png?1612551860",
+          "alt": "thefloorislava2",
+          "width": 644,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/896/medium/frevgfrtgrtfrdfr.png?1612551856",
+          "alt": "frevgfrtgrtfrdfr",
+          "width": 736,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/897/medium/ghjnyu.png?1612551857",
+          "alt": "ghjnyu",
+          "width": 854,
+          "height": 559
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/901/medium/frthbgtrhbgty2.png?1612551893",
+          "alt": "frthbgtrhbgty2",
+          "width": 385,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/898/medium/hgg.png?1612551857",
+          "alt": "hgg",
+          "width": 483,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/900/medium/defefed.png?1612551866",
+          "alt": "defefed",
+          "width": 656,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/905/medium/cccdd.png?1612551982",
+          "alt": "cccdd",
+          "width": 854,
+          "height": 543
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/907/medium/vgfbhfgrtbhytg.png?1612552042",
+          "alt": "vgfbhfgrtbhytg",
+          "width": 854,
+          "height": 725
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/005-seibold/index.html"
+    },
+    {
+      "id": "eli",
+      "slug": "eli",
+      "name": "Eli",
+      "species": "Fox",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/eli",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/thumbnail/fffdfr.png?1612552137",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/medium/fffdfr.png?1612552137",
+          "alt": "",
+          "width": 492,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/large/fffdfr.png?1612552137",
+          "alt": "fffdfr",
+          "width": 737,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/909/large/gthytjnyu.png?1612552140",
+          "alt": "gthytjnyu",
+          "width": 1280,
+          "height": 736
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/911/large/thefloorislava1.png?1612552143",
+          "alt": "thefloorislava1",
+          "width": 885,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/913/large/thefloorislava2.png?1612552149",
+          "alt": "thefloorislava2",
+          "width": 966,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/910/large/frevgfrtgrtfrdfr.png?1612552143",
+          "alt": "frevgfrtgrtfrdfr",
+          "width": 1102,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/912/large/attitudeunconscious.png?1612552145",
+          "alt": "attitudeunconscious",
+          "width": 1280,
+          "height": 1265
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/914/large/ghjnyu.png?1612552187",
+          "alt": "ghjnyu",
+          "width": 1280,
+          "height": 838
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/915/large/vfgrtbgthgyt.png?1612552187",
+          "alt": "vfgrtbgthgyt",
+          "width": 1280,
+          "height": 860
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/916/large/frthbgtrhbgty2.png?1612552187",
+          "alt": "frthbgtrhbgty2",
+          "width": 577,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/917/large/defefed.png?1612552193",
+          "alt": "defefed",
+          "width": 983,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/918/large/cccdd.png?1612552195",
+          "alt": "cccdd",
+          "width": 1280,
+          "height": 814
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/908/medium/fffdfr.png?1612552137",
+          "alt": "fffdfr",
+          "width": 492,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/909/medium/gthytjnyu.png?1612552140",
+          "alt": "gthytjnyu",
+          "width": 854,
+          "height": 491
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/911/medium/thefloorislava1.png?1612552143",
+          "alt": "thefloorislava1",
+          "width": 590,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/913/medium/thefloorislava2.png?1612552149",
+          "alt": "thefloorislava2",
+          "width": 644,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/910/medium/frevgfrtgrtfrdfr.png?1612552143",
+          "alt": "frevgfrtgrtfrdfr",
+          "width": 736,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/912/medium/attitudeunconscious.png?1612552145",
+          "alt": "attitudeunconscious",
+          "width": 854,
+          "height": 844
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/914/medium/ghjnyu.png?1612552187",
+          "alt": "ghjnyu",
+          "width": 854,
+          "height": 559
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/915/medium/vfgrtbgthgyt.png?1612552187",
+          "alt": "vfgrtbgthgyt",
+          "width": 854,
+          "height": 574
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/916/medium/frthbgtrhbgty2.png?1612552187",
+          "alt": "frthbgtrhbgty2",
+          "width": 385,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/917/medium/defefed.png?1612552193",
+          "alt": "defefed",
+          "width": 656,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/918/medium/cccdd.png?1612552195",
+          "alt": "cccdd",
+          "width": 854,
+          "height": 543
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/006-eli/index.html"
+    },
+    {
+      "id": "sigrid",
+      "slug": "sigrid",
+      "name": "Sigrid",
+      "species": "Greater Grey Wolf",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/sigrid",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/thumbnail/efcefcref.png?1617281925",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/medium/efcefcref.png?1617281925",
+          "alt": "",
+          "width": 854,
+          "height": 841
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/866/large/fcdrfrds.png?1612551394",
+          "alt": "fcdrfrds",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/867/large/fcdrfrds2.png?1612551395",
+          "alt": "fcdrfrds2",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/868/large/fcdrfrds3.png?1612551397",
+          "alt": "fcdrfrds3",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/870/large/nhgjuy1.png?1612551419",
+          "alt": "nhgjuy1",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/873/large/nhgjuy2.png?1612551428",
+          "alt": "nhgjuy2",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/874/large/nhgjuy3.png?1612551501",
+          "alt": "nhgjuy3",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/869/large/nhgjuy4.png?1612551418",
+          "alt": "nhgjuy4",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/871/large/cdfvrevgrt.png?1612551421",
+          "alt": "cdfvrevgrt",
+          "width": 1280,
+          "height": 1062
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/875/large/eingrid1.png?1612551502",
+          "alt": "eingrid1",
+          "width": 1213,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/872/large/eingrid2.png?1612551425",
+          "alt": "eingrid2",
+          "width": 1213,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/879/large/eingrid3.png?1612551601",
+          "alt": "eingrid3",
+          "width": 1213,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/876/large/shesaidno.png?1612551504",
+          "alt": "shesaidno",
+          "width": 964,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/877/large/grr1.png?1612551511",
+          "alt": "grr1",
+          "width": 795,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/210/large/shirtborrow1.png?1612568392",
+          "alt": "shirtborrow1",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/209/large/shirtborrow2.png?1612568391",
+          "alt": "shirtborrow2",
+          "width": 1280,
+          "height": 1052
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/208/large/shirtborrow3.png?1612568385",
+          "alt": "shirtborrow3",
+          "width": 1224,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/207/large/shirtborrow4.png?1612568383",
+          "alt": "shirtborrow4",
+          "width": 1224,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/large/efcefcref.png?1617281925",
+          "alt": "efcefcref",
+          "width": 1280,
+          "height": 1260
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/945/large/fgdgd1.png?1617281924",
+          "alt": "fgdgd1",
+          "width": 1224,
+          "height": 1038
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/943/large/fgdgd2.png?1617281923",
+          "alt": "fgdgd2",
+          "width": 1224,
+          "height": 1038
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/946/large/fgdgd3.png?1617281942",
+          "alt": "fgdgd3",
+          "width": 1224,
+          "height": 1038
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/947/large/deded2.png?1617281943",
+          "alt": "deded2",
+          "width": 864,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/866/medium/fcdrfrds.png?1612551394",
+          "alt": "fcdrfrds",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/867/medium/fcdrfrds2.png?1612551395",
+          "alt": "fcdrfrds2",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/868/medium/fcdrfrds3.png?1612551397",
+          "alt": "fcdrfrds3",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/870/medium/nhgjuy1.png?1612551419",
+          "alt": "nhgjuy1",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/873/medium/nhgjuy2.png?1612551428",
+          "alt": "nhgjuy2",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/874/medium/nhgjuy3.png?1612551501",
+          "alt": "nhgjuy3",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/869/medium/nhgjuy4.png?1612551418",
+          "alt": "nhgjuy4",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/871/medium/cdfvrevgrt.png?1612551421",
+          "alt": "cdfvrevgrt",
+          "width": 854,
+          "height": 708
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/875/medium/eingrid1.png?1612551502",
+          "alt": "eingrid1",
+          "width": 809,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/872/medium/eingrid2.png?1612551425",
+          "alt": "eingrid2",
+          "width": 809,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/879/medium/eingrid3.png?1612551601",
+          "alt": "eingrid3",
+          "width": 809,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/876/medium/shesaidno.png?1612551504",
+          "alt": "shesaidno",
+          "width": 643,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/877/medium/grr1.png?1612551511",
+          "alt": "grr1",
+          "width": 530,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/210/medium/shirtborrow1.png?1612568392",
+          "alt": "shirtborrow1",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/209/medium/shirtborrow2.png?1612568391",
+          "alt": "shirtborrow2",
+          "width": 854,
+          "height": 702
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/208/medium/shirtborrow3.png?1612568385",
+          "alt": "shirtborrow3",
+          "width": 854,
+          "height": 837
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/207/medium/shirtborrow4.png?1612568383",
+          "alt": "shirtborrow4",
+          "width": 854,
+          "height": 837
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/944/medium/efcefcref.png?1617281925",
+          "alt": "efcefcref",
+          "width": 854,
+          "height": 841
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/945/medium/fgdgd1.png?1617281924",
+          "alt": "fgdgd1",
+          "width": 854,
+          "height": 724
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/943/medium/fgdgd2.png?1617281923",
+          "alt": "fgdgd2",
+          "width": 854,
+          "height": 724
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/946/medium/fgdgd3.png?1617281942",
+          "alt": "fgdgd3",
+          "width": 854,
+          "height": 724
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/947/medium/deded2.png?1617281943",
+          "alt": "deded2",
+          "width": 577,
+          "height": 854
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/007-sigrid/index.html"
+    },
+    {
+      "id": "eina",
+      "slug": "eina",
+      "name": "Eina",
+      "species": "Alpine Ram",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/eina",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/thumbnail/frgvfrtgvrft.png?1612550904",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/medium/frgvfrtgvrft.png?1612550904",
+          "alt": "",
+          "width": 711,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/848/large/cdfvrevgrt.png?1612550890",
+          "alt": "cdfvrevgrt",
+          "width": 1280,
+          "height": 1062
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/851/large/nhgjuy1.png?1612550924",
+          "alt": "nhgjuy1",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/853/large/nhgjuy2.png?1612550932",
+          "alt": "nhgjuy2",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/852/large/nhgjuy3.png?1612550931",
+          "alt": "nhgjuy3",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/large/frgvfrtgvrft.png?1612550904",
+          "alt": "frgvfrtgvrft",
+          "width": 1065,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/856/large/eingrid3.png?1612551133",
+          "alt": "eingrid3",
+          "width": 1213,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/857/large/eingrid2.png?1612551134",
+          "alt": "eingrid2",
+          "width": 1213,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/200/large/shirtborrow1.png?1612568225",
+          "alt": "shirtborrow1",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/198/large/shirtborrow2.png?1612568211",
+          "alt": "shirtborrow2",
+          "width": 1280,
+          "height": 1052
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/197/large/shirtborrow3.png?1612568203",
+          "alt": "shirtborrow3",
+          "width": 1224,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/199/large/shirtborrow4.png?1612568218",
+          "alt": "shirtborrow4",
+          "width": 1224,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/966/large/fgrgvfrtgrt.png?1617282128",
+          "alt": "fgrgvfrtgrt",
+          "width": 788,
+          "height": 594
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/969/large/efcefcref.png?1617282130",
+          "alt": "efcefcref",
+          "width": 1280,
+          "height": 1260
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/967/large/fgdgd2.png?1617282129",
+          "alt": "fgdgd2",
+          "width": 1224,
+          "height": 1038
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/968/large/fgdgd1.png?1617282129",
+          "alt": "fgdgd1",
+          "width": 1224,
+          "height": 1038
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/971/large/fgdgd3.png?1617282134",
+          "alt": "fgdgd3",
+          "width": 1224,
+          "height": 1038
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/970/large/deded2.png?1617282132",
+          "alt": "deded2",
+          "width": 864,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/848/medium/cdfvrevgrt.png?1612550890",
+          "alt": "cdfvrevgrt",
+          "width": 854,
+          "height": 708
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/851/medium/nhgjuy1.png?1612550924",
+          "alt": "nhgjuy1",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/853/medium/nhgjuy2.png?1612550932",
+          "alt": "nhgjuy2",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/852/medium/nhgjuy3.png?1612550931",
+          "alt": "nhgjuy3",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/849/medium/frgvfrtgvrft.png?1612550904",
+          "alt": "frgvfrtgvrft",
+          "width": 711,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/856/medium/eingrid3.png?1612551133",
+          "alt": "eingrid3",
+          "width": 809,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/857/medium/eingrid2.png?1612551134",
+          "alt": "eingrid2",
+          "width": 809,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/200/medium/shirtborrow1.png?1612568225",
+          "alt": "shirtborrow1",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/198/medium/shirtborrow2.png?1612568211",
+          "alt": "shirtborrow2",
+          "width": 854,
+          "height": 702
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/197/medium/shirtborrow3.png?1612568203",
+          "alt": "shirtborrow3",
+          "width": 854,
+          "height": 837
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/765/199/medium/shirtborrow4.png?1612568218",
+          "alt": "shirtborrow4",
+          "width": 854,
+          "height": 837
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/966/medium/fgrgvfrtgrt.png?1617282128",
+          "alt": "fgrgvfrtgrt",
+          "width": 788,
+          "height": 594
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/969/medium/efcefcref.png?1617282130",
+          "alt": "efcefcref",
+          "width": 854,
+          "height": 841
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/967/medium/fgdgd2.png?1617282129",
+          "alt": "fgdgd2",
+          "width": 854,
+          "height": 724
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/968/medium/fgdgd1.png?1617282129",
+          "alt": "fgdgd1",
+          "width": 854,
+          "height": 724
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/971/medium/fgdgd3.png?1617282134",
+          "alt": "fgdgd3",
+          "width": 854,
+          "height": 724
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/970/medium/deded2.png?1617282132",
+          "alt": "deded2",
+          "width": 577,
+          "height": 854
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/008-eina/index.html"
+    },
+    {
+      "id": "elka",
+      "slug": "elka",
+      "name": "Elka",
+      "species": "Common Dog",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/elka",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/thumbnail/dsfre.png?1612552341",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/medium/dsfre.png?1612552341",
+          "alt": "",
+          "width": 854,
+          "height": 787
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/large/dsfre.png?1612552341",
+          "alt": "dsfre",
+          "width": 1280,
+          "height": 1180
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/923/large/defefe.png?1612552350",
+          "alt": "defefe",
+          "width": 1134,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/922/large/defefe2.png?1612552343",
+          "alt": "defefe2",
+          "width": 1134,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/924/large/frgvfgr2.png?1612552370",
+          "alt": "frgvfgr2",
+          "width": 1280,
+          "height": 1099
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/925/large/bgfbhgyth.png?1612552374",
+          "alt": "bgfbhgyth",
+          "width": 1010,
+          "height": 1200
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/921/medium/dsfre.png?1612552341",
+          "alt": "dsfre",
+          "width": 854,
+          "height": 787
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/923/medium/defefe.png?1612552350",
+          "alt": "defefe",
+          "width": 807,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/922/medium/defefe2.png?1612552343",
+          "alt": "defefe2",
+          "width": 807,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/924/medium/frgvfgr2.png?1612552370",
+          "alt": "frgvfgr2",
+          "width": 854,
+          "height": 733
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/925/medium/bgfbhgyth.png?1612552374",
+          "alt": "bgfbhgyth",
+          "width": 719,
+          "height": 854
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/009-elka/index.html"
+    },
+    {
+      "id": "vixen",
+      "slug": "vixen",
+      "name": "Vixen",
+      "species": "Fox (?)",
+      "gender": null,
+      "group_ids": [
+        "lord-s-party"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/vixen",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/thumbnail/dedesede.gif?1612540491",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/medium/dedesede.gif?1612540491",
+          "alt": "",
+          "width": 560,
+          "height": 420
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/large/dedesede.gif?1612540491",
+          "alt": "dedesede",
+          "width": 560,
+          "height": 420
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/769/large/vixensdreamvisits.png?1612540518",
+          "alt": "vixensdreamvisits",
+          "width": 1280,
+          "height": 1162
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/768/medium/dedesede.gif?1612540491",
+          "alt": "dedesede",
+          "width": 560,
+          "height": 420
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/769/medium/vixensdreamvisits.png?1612540518",
+          "alt": "vixensdreamvisits",
+          "width": 854,
+          "height": 776
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/010-vixen/index.html"
+    },
+    {
+      "id": "clover",
+      "slug": "clover",
+      "name": "Clover",
+      "species": "Bunny",
+      "gender": null,
+      "group_ids": [
+        "fox-etc"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/clover",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/thumbnail/cdsferfcrefcer1.png?1612553135",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/medium/cdsferfcrefcer1.png?1612553135",
+          "alt": "",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/large/cdsferfcrefcer1.png?1612553135",
+          "alt": "cdsferfcrefcer1",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/938/large/cdsferfcrefcer2.png?1612553141",
+          "alt": "cdsferfcrefcer2",
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/936/large/gthbtyjyu.png?1612553132",
+          "alt": "gthbtyjyu",
+          "width": 1280,
+          "height": 964
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/939/large/cat1.png?1612553143",
+          "alt": "cat1",
+          "width": 540,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/941/large/cat2.png?1612553153",
+          "alt": "cat2",
+          "width": 1121,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/940/large/vfdgbtrhb.png?1612553150",
+          "alt": "vfdgbtrhb",
+          "width": 910,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/942/large/vfrbgrtbhgyt.png?1612553161",
+          "alt": "vfrbgrtbhgyt",
+          "width": 1280,
+          "height": 781
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/952/large/ghynjhjn.png?1612553217",
+          "alt": "ghynjhjn",
+          "width": 1280,
+          "height": 921
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/937/medium/cdsferfcrefcer1.png?1612553135",
+          "alt": "cdsferfcrefcer1",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/938/medium/cdsferfcrefcer2.png?1612553141",
+          "alt": "cdsferfcrefcer2",
+          "width": 854,
+          "height": 640
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/936/medium/gthbtyjyu.png?1612553132",
+          "alt": "gthbtyjyu",
+          "width": 854,
+          "height": 643
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/939/medium/cat1.png?1612553143",
+          "alt": "cat1",
+          "width": 360,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/941/medium/cat2.png?1612553153",
+          "alt": "cat2",
+          "width": 748,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/940/medium/vfdgbtrhb.png?1612553150",
+          "alt": "vfdgbtrhb",
+          "width": 607,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/942/medium/vfrbgrtbhgyt.png?1612553161",
+          "alt": "vfrbgrtbhgyt",
+          "width": 854,
+          "height": 521
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/952/medium/ghynjhjn.png?1612553217",
+          "alt": "ghynjhjn",
+          "width": 854,
+          "height": 614
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/011-clover/index.html"
+    },
+    {
+      "id": "cotton",
+      "slug": "cotton",
+      "name": "Cotton",
+      "species": "Bunny",
+      "gender": null,
+      "group_ids": [
+        "fox-etc"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/cotton",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/thumbnail/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/medium/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+          "alt": "",
+          "width": 854,
+          "height": 596
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/954/large/cdvfrtg.png?1612553334",
+          "alt": "cdvfrtg",
+          "width": 1280,
+          "height": 638
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/955/large/vfdgbtrhb.png?1612553337",
+          "alt": "vfdgbtrhb",
+          "width": 910,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/956/large/cat2.png?1612553339",
+          "alt": "cat2",
+          "width": 1121,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/957/large/fcrevcreg.png?1612553407",
+          "alt": "fcrevcreg",
+          "width": 1280,
+          "height": 1036
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/958/large/vfgt.png?1612553408",
+          "alt": "vfgt",
+          "width": 1280,
+          "height": 1066
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/large/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+          "alt": "yeahi watched alpha and omega 55 times how can you tell",
+          "width": 1280,
+          "height": 893
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/954/medium/cdvfrtg.png?1612553334",
+          "alt": "cdvfrtg",
+          "width": 854,
+          "height": 426
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/955/medium/vfdgbtrhb.png?1612553337",
+          "alt": "vfdgbtrhb",
+          "width": 607,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/956/medium/cat2.png?1612553339",
+          "alt": "cat2",
+          "width": 748,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/957/medium/fcrevcreg.png?1612553407",
+          "alt": "fcrevcreg",
+          "width": 854,
+          "height": 691
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/958/medium/vfgt.png?1612553408",
+          "alt": "vfgt",
+          "width": 854,
+          "height": 711
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/959/medium/yeahi_watched_alpha_and_omega_55_times_how_can_you_tell.png?1612553444",
+          "alt": "yeahi watched alpha and omega 55 times how can you tell",
+          "width": 854,
+          "height": 596
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/012-cotton/index.html"
+    },
+    {
+      "id": "hazel",
+      "slug": "hazel",
+      "name": "Hazel",
+      "species": "Bunny",
+      "gender": null,
+      "group_ids": [
+        "fox-etc"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/hazel",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/thumbnail/your_antics_wont_work_on_me4.png?1617282465",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/medium/your_antics_wont_work_on_me4.png?1617282465",
+          "alt": "",
+          "width": 854,
+          "height": 733
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/962/large/vfrbgrtbhgyt.png?1612553552",
+          "alt": "vfrbgrtbhgyt",
+          "width": 1280,
+          "height": 781
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/963/large/vfgt.png?1612553554",
+          "alt": "vfgt",
+          "width": 1280,
+          "height": 1066
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/964/large/cat2.png?1612553565",
+          "alt": "cat2",
+          "width": 1121,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/965/large/ghynjhjn.png?1612553565",
+          "alt": "ghynjhjn",
+          "width": 1280,
+          "height": 921
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/656/large/fdvgfrtgvtfr.png?1612752796",
+          "alt": "fdvgfrtgvtfr",
+          "width": 1170,
+          "height": 1142
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/661/large/fdvgfrtgvtfrs.png?1612752864",
+          "alt": "fdvgfrtgvtfrs",
+          "width": 620,
+          "height": 984
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/large/your_antics_wont_work_on_me4.png?1617282465",
+          "alt": "your antics wont work on me4",
+          "width": 1229,
+          "height": 1055
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/973/large/your_antics_wont_work_on_me1.png?1617282472",
+          "alt": "your antics wont work on me1",
+          "width": 1280,
+          "height": 871
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/974/large/fedfvre1.png?1617282480",
+          "alt": "fedfvre1",
+          "width": 1280,
+          "height": 486
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/962/medium/vfrbgrtbhgyt.png?1612553552",
+          "alt": "vfrbgrtbhgyt",
+          "width": 854,
+          "height": 521
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/963/medium/vfgt.png?1612553554",
+          "alt": "vfgt",
+          "width": 854,
+          "height": 711
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/964/medium/cat2.png?1612553565",
+          "alt": "cat2",
+          "width": 748,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/965/medium/ghynjhjn.png?1612553565",
+          "alt": "ghynjhjn",
+          "width": 854,
+          "height": 614
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/656/medium/fdvgfrtgvtfr.png?1612752796",
+          "alt": "fdvgfrtgvtfr",
+          "width": 854,
+          "height": 834
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/767/661/medium/fdvgfrtgvtfrs.png?1612752864",
+          "alt": "fdvgfrtgvtfrs",
+          "width": 538,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/972/medium/your_antics_wont_work_on_me4.png?1617282465",
+          "alt": "your antics wont work on me4",
+          "width": 854,
+          "height": 733
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/973/medium/your_antics_wont_work_on_me1.png?1617282472",
+          "alt": "your antics wont work on me1",
+          "width": 854,
+          "height": 581
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/816/974/medium/fedfvre1.png?1617282480",
+          "alt": "fedfvre1",
+          "width": 854,
+          "height": 324
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/013-hazel/index.html"
+    },
+    {
+      "id": "blue",
+      "slug": "blue",
+      "name": "Blue",
+      "species": "Bunny",
+      "gender": null,
+      "group_ids": [
+        "fox-etc"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/blue",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/thumbnail/cat1.png?1612553660",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/medium/cat1.png?1612553660",
+          "alt": "",
+          "width": 360,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/large/cat1.png?1612553660",
+          "alt": "cat1",
+          "width": 540,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/971/large/cat2.png?1612553671",
+          "alt": "cat2",
+          "width": 1121,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/970/large/cat3.png?1612553665",
+          "alt": "cat3",
+          "width": 1280,
+          "height": 1029
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/972/large/vfdgbtrhb.png?1612553676",
+          "alt": "vfdgbtrhb",
+          "width": 910,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/968/large/cdvfrtg.png?1612553655",
+          "alt": "cdvfrtg",
+          "width": 1280,
+          "height": 638
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/978/large/bgfnjhytjnhnh.png?1612553771",
+          "alt": "bgfnjhytjnhnh",
+          "width": 1280,
+          "height": 510
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/969/medium/cat1.png?1612553660",
+          "alt": "cat1",
+          "width": 360,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/971/medium/cat2.png?1612553671",
+          "alt": "cat2",
+          "width": 748,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/970/medium/cat3.png?1612553665",
+          "alt": "cat3",
+          "width": 854,
+          "height": 687
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/972/medium/vfdgbtrhb.png?1612553676",
+          "alt": "vfdgbtrhb",
+          "width": 607,
+          "height": 854
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/968/medium/cdvfrtg.png?1612553655",
+          "alt": "cdvfrtg",
+          "width": 854,
+          "height": 426
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/978/medium/bgfnjhytjnhnh.png?1612553771",
+          "alt": "bgfnjhytjnhnh",
+          "width": 854,
+          "height": 340
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/014-blue/index.html"
+    },
+    {
+      "id": "adrian",
+      "slug": "adrian",
+      "name": "Adrian",
+      "species": "Dog",
+      "gender": null,
+      "group_ids": [
+        "city-undisclosed"
+      ],
+      "original_url": "https://refsheet.net/fiddleafox/adrian",
+      "profile_image_url": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/981/thumbnail/1580869255.fiddleafox_dddeff.png?1612553920",
+      "featured_image_url": null,
+      "images": [
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_64.png",
+          "alt": "Refsheet.net",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/981/medium/1580869255.fiddleafox_dddeff.png?1612553920",
+          "alt": "",
+          "width": 706,
+          "height": 718
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/981/large/1580869255.fiddleafox_dddeff.png?1612553920",
+          "alt": "1580869255",
+          "width": 706,
+          "height": 718
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/982/large/1580869160.fiddleafox_tfvdrtvfdtrvtr.jpg?1612554056",
+          "alt": "1580869160",
+          "width": 1222,
+          "height": 1280
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/981/medium/1580869255.fiddleafox_dddeff.png?1612553920",
+          "alt": "1580869255",
+          "width": 706,
+          "height": 718
+        },
+        {
+          "src": "https://s3.amazonaws.com/refsheet-prod/images/images/000/764/982/medium/1580869160.fiddleafox_tfvdrtvfdtrvtr.jpg?1612554056",
+          "alt": "1580869160",
+          "width": 815,
+          "height": 854
+        },
+        {
+          "src": "https://refsheet.net/assets/third_party/patreon_white.png",
+          "alt": "Support us on Patreon!",
+          "width": 157,
+          "height": 36
+        },
+        {
+          "src": "https://refsheet.net/assets/logos/RefsheetLogo_White_200-fc53c56d9ec20d50385a28dbc1683e181c5404619eeb09ba86fb770eea51bf99.png",
+          "alt": "Loading...",
+          "width": 200,
+          "height": 200
+        }
+      ],
+      "local_file": "characters/015-adrian/index.html"
+    }
+  ]
+}
